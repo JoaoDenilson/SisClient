@@ -6,3 +6,4 @@ C:\ProjetosNet\Curso_C#\SisClient\Lib\obj\Debug\netcoreapp3.1\Lib.AssemblyInfo.c
 C:\ProjetosNet\Curso_C#\SisClient\Lib\obj\Debug\netcoreapp3.1\Lib.csproj.CoreCompileInputs.cache
 C:\ProjetosNet\Curso_C#\SisClient\Lib\obj\Debug\netcoreapp3.1\Lib.dll
 C:\ProjetosNet\Curso_C#\SisClient\Lib\obj\Debug\netcoreapp3.1\Lib.pdb
+C:\ProjetosNet\Curso_C#\SisClient\Lib\obj\Debug\netcoreapp3.1\Lib.csproj.AssemblyReference.cache

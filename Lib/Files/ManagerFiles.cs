@@ -7,7 +7,7 @@ namespace Lib.Files
 {
     public class ManagerFiles
     {
-        public void RegisterFile(string name, string text)
+        public static void RegisterFile(string name, string text)
         {
             string path = "C:\\Users\\João Denílson\\Documents" + name + ".txt";
 
@@ -27,7 +27,7 @@ namespace Lib.Files
             }
         }
 
-        public string[] ReadFiles(string name)
+        public static string[] ReadFiles(string name)
         {
             string path = "C:\\Users\\João Denílson\\Documents" + name + ".txt";
             return File.ReadAllLines(path);

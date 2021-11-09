@@ -7,7 +7,7 @@ namespace Lib.Model
     public sealed class Employee : Person
     {
         public string Occupation { get; set; }
-        public string Wage { get; set; }
+        public double Wage { get; set; }
         public DateTime DateHiring { get; set; }
 
     }

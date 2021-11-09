@@ -9,7 +9,7 @@ namespace SisClient.Converter
     {
         public static string ConverterToText(Client client)
         {
-            string text = string.Format("{1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}",
+            string text = string.Format("{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}",
                 client.Name,
                 client.DateBirth,
                 client.Phone,
@@ -39,7 +39,6 @@ namespace SisClient.Converter
             client.Address = elements[8];
 
             return client;
-
         }
     }
 }

@@ -1,7 +1,9 @@
 ﻿using Lib.Model;
+using SisClient.Converter;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Lib.Files;
 
 namespace SisClient.View
 {
@@ -40,10 +42,22 @@ namespace SisClient.View
 
             Console.Write("UF: ");
             client.UF = Console.ReadLine();
+
+            ManagerFiles.RegisterFile("Client", ClientText.ConverterToText(client));
         }
         public void ListClient()
         {
+            Console.Clear();
 
+            Console.WriteLine("LIST CLIENTS");
+
+            string[] lines = ManagerFiles.ReadFiles("Client");
+
+            foreach(string line in lines)
+            {
+                Client client = ClientText.ConverterToClient(line);
+                Console.WriteLine("Name: "+client.Name);
+            }
         }
     }
 }
