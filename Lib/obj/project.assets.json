@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "Lib/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/Lib.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Lib.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "Lib/1.0.0": {
-      "type": "project",
-      "path": "../Lib/Lib.csproj",
-      "msbuildProject": "../Lib/Lib.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "Lib >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\João Denílson\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjetosNet\\Curso_C#\\SisClient\\SisClient\\SisClient.csproj",
-      "projectName": "SisClient",
-      "projectPath": "C:\\ProjetosNet\\Curso_C#\\SisClient\\SisClient\\SisClient.csproj",
+      "projectUniqueName": "C:\\ProjetosNet\\Curso_C#\\SisClient\\Lib\\Lib.csproj",
+      "projectName": "Lib",
+      "projectPath": "C:\\ProjetosNet\\Curso_C#\\SisClient\\Lib\\Lib.csproj",
       "packagesPath": "C:\\Users\\João Denílson\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjetosNet\\Curso_C#\\SisClient\\SisClient\\obj\\",
+      "outputPath": "C:\\ProjetosNet\\Curso_C#\\SisClient\\Lib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\João Denílson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\ProjetosNet\\Curso_C#\\SisClient\\Lib\\Lib.csproj": {
-              "projectPath": "C:\\ProjetosNet\\Curso_C#\\SisClient\\Lib\\Lib.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

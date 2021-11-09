@@ -1,0 +1,16 @@
+C:\ProjetosNet\Curso_C#\SisClient\SisClient\bin\Debug\netcoreapp3.1\SisClient.exe
+C:\ProjetosNet\Curso_C#\SisClient\SisClient\bin\Debug\netcoreapp3.1\SisClient.deps.json
+C:\ProjetosNet\Curso_C#\SisClient\SisClient\bin\Debug\netcoreapp3.1\SisClient.runtimeconfig.json
+C:\ProjetosNet\Curso_C#\SisClient\SisClient\bin\Debug\netcoreapp3.1\SisClient.runtimeconfig.dev.json
+C:\ProjetosNet\Curso_C#\SisClient\SisClient\bin\Debug\netcoreapp3.1\SisClient.dll
+C:\ProjetosNet\Curso_C#\SisClient\SisClient\bin\Debug\netcoreapp3.1\SisClient.pdb
+C:\ProjetosNet\Curso_C#\SisClient\SisClient\bin\Debug\netcoreapp3.1\Lib.dll
+C:\ProjetosNet\Curso_C#\SisClient\SisClient\bin\Debug\netcoreapp3.1\Lib.pdb
+C:\ProjetosNet\Curso_C#\SisClient\SisClient\obj\Debug\netcoreapp3.1\SisClient.csproj.AssemblyReference.cache
+C:\ProjetosNet\Curso_C#\SisClient\SisClient\obj\Debug\netcoreapp3.1\SisClient.AssemblyInfoInputs.cache
+C:\ProjetosNet\Curso_C#\SisClient\SisClient\obj\Debug\netcoreapp3.1\SisClient.AssemblyInfo.cs
+C:\ProjetosNet\Curso_C#\SisClient\SisClient\obj\Debug\netcoreapp3.1\SisClient.csproj.CoreCompileInputs.cache
+C:\ProjetosNet\Curso_C#\SisClient\SisClient\obj\Debug\netcoreapp3.1\SisClient.csproj.CopyComplete
+C:\ProjetosNet\Curso_C#\SisClient\SisClient\obj\Debug\netcoreapp3.1\SisClient.dll
+C:\ProjetosNet\Curso_C#\SisClient\SisClient\obj\Debug\netcoreapp3.1\SisClient.pdb
+C:\ProjetosNet\Curso_C#\SisClient\SisClient\obj\Debug\netcoreapp3.1\SisClient.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\ProjetosNet\Curso_C#\SisClient\Library1\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\ProjetosNet\Curso_C#\SisClient\Library1\bin\Debug\netcoreapp3.1\Library.dll
+C:\ProjetosNet\Curso_C#\SisClient\Library1\bin\Debug\netcoreapp3.1\Library.pdb
+C:\ProjetosNet\Curso_C#\SisClient\Library1\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\ProjetosNet\Curso_C#\SisClient\Library1\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\ProjetosNet\Curso_C#\SisClient\Library1\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+C:\ProjetosNet\Curso_C#\SisClient\Library1\obj\Debug\netcoreapp3.1\Library.dll
+C:\ProjetosNet\Curso_C#\SisClient\Library1\obj\Debug\netcoreapp3.1\Library.pdb
